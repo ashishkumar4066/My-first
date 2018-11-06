@@ -1,0 +1,49 @@
+body {
+    background-color: #333;
+    color: #fff;
+}
+
+.navbar {
+    border-bottom: #008ed6 2px solid;
+    opacity: 0.8;
+}
+
+.home-section {
+    background: url(children-community-family-9746.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.dark-overlay {
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+.explore-section {
+    color: #333;
+}
+
+p.subtext {
+    font-size: 20px;
+}
+
+.fa {
+    border-radius: 5px;
+    background: #008ed6;
+    color: white;
+    padding: 4px;
+    font-size: 20px;
+}
+
+.create {
+    background-color: #008ed6;
+}
+
+.create-section {
+    color: #333;
+    font-size: 20px;
+}
+
+.title {
+    color: #333;
+    font-size: 30px;
+}
